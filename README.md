@@ -35,7 +35,9 @@ Our goal is to find the best model with the most important features to predict t
 
 #### Project Member
 [Jennie Sun](https://github.com/jenniesun)@jenniesun
+
 [Yi Feng](https://github.com/notfy111)@notfy111
+
 [Jiaman "Betty" Wu](https://github.com/JiamanBettyWu)@JiamanBettyWu
 
 
