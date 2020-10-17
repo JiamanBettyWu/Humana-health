@@ -1,6 +1,5 @@
 # 2020 Humana-Mays Healthcare Case competition
 ## [Transportation Challenge Prediction Project](https://mays.tamu.edu/humana-tamu-analytics/)
-![logo](Humana_Report.png)
 
 ### Introduction
 
