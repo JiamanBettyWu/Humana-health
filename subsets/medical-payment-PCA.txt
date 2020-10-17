@@ -1,0 +1,13 @@
+rev_cms_clinic_ind
+rev_cms_er_ind
+rev_cms_icu_ind
+rev_cms_lab_ind
+rev_cms_phar_ind
+cms_ma_risk_score_nbr
+cms_partd_ra_factor_amt
+cms_risk_adj_payment_rate_a_amt
+cms_risk_adj_payment_rate_b_amt
+cms_risk_adjustment_factor_a_amt
+cms_rx_risk_score_nbr
+cms_tot_ma_payment_amt
+cms_tot_partd_payment_amt
