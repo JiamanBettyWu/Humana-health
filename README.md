@@ -34,9 +34,12 @@ Our goal is to find the best model with the most important features to predict t
 
 
 ### Project Member
-[@jenniesun](https://github.com/jenniesun) \n
-[@notfy111](https://github.com/notfy111) \n
-[@JiamanBettyWu](https://github.com/JiamanBettyWu) \n
+Jennie Sun:[@jenniesun](https://github.com/jenniesun)
+
+Yi Feng: [@notfy111](https://github.com/notfy111)
+
+Jiaman "Betty" Wu: [@JiamanBettyWu](https://github.com/JiamanBettyWu)
+
 
 
 For more details about the project, please refer to the [report](CaseCompetition_Jennie_Sun.pdf).
